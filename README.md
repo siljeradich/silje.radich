@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @siljekode
+- 👋 Hi, I’m @silje
 - 👀 I’m interested in developing my YouTube channel and create apps to organise my various hobbies effectively.
 - 🌱 I’m currently learning HTML, CSS and JavaScript. Also using various editing software for videos.
 - 💞️ I’m looking to collaborate on anything relating to UX. I love making people's lives a little easier.
 - 🎲 Avid DnD player.
-- 📫 How to reach me: siljekodehode@gmail.com
+- 📫 How to reach me: silje.radich.melby@mailfence.com
 
 <!---
 siljekode/siljekode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
