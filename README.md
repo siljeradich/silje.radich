@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silje
+- 👋 Hi, I’m @silje radich
 - 👀 I’m interested in developing my YouTube channel and create apps to organise my various hobbies effectively.
 - 🌱 I’m currently learning HTML, CSS and JavaScript. Also using various editing software for videos.
 - 💞️ I’m looking to collaborate on anything relating to UX. I love making people's lives a little easier.
